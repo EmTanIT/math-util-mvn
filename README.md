@@ -1,3 +1,4 @@
+[![Math-Utility-Project applying CI](https://github.com/EmTanIT/math-util-mvn/actions/workflows/mathuti-ci.yml/badge.svg)](https://github.com/EmTanIT/math-util-mvn/actions/workflows/mathuti-ci.yml)
 ### Welcome to Math Utility Project Repository
 
 ### You will find in the following stuff in this Maven project:
